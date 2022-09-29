@@ -10,7 +10,7 @@ public class Array {
 			int temp[] = new int[n];
 
 			
-			int j = 0; // index of temp
+			int j = 0; 
 			
 			for (int i = 0; i < n; i++)
 				if (arr[i] >= 0)
